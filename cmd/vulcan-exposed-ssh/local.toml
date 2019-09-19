@@ -1,5 +1,0 @@
-[Log]
-LogLevel = "debug"
-[Check]
-Target = "example.com"
-Opts = "{\"ports\":[\"22\"], \"allowed\": true}"

@@ -1,3 +1,0 @@
-[Check]
-Target = "example.com"
-Opts = "{\"depth\":2, \"active\":true}"

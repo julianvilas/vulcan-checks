@@ -1,5 +1,0 @@
-[Log]
-LogLevel = "debug"
-[Check]
-Target = "localhost"
-Opts = '{"whitelisted_tcp_ports": [], "whitelisted_udp_ports": []}'

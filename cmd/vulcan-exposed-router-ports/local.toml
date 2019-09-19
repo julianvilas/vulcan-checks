@@ -1,4 +1,0 @@
-[Log]
-LogLevel = "debug"
-[Check]
-Target = "localhost"
